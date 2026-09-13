@@ -92,6 +92,14 @@ python-chess>=1.999
 pygame>=2.5.0
 Pillow>=10.0.0
 
+
+📸 Screenshots
+Main Menu	Gameplay	Daily Challenge
+https://screenshots/menu.png	https://screenshots/game.png	https://screenshots/puzzle.png
+Statistics	Themes	Premium
+https://screenshots/stats.png	https://screenshots/themes.png	https://screenshots/premium.png
+(Screenshots will be added soon)
+
 🗺️ Roadmap
 We have big plans for CGACChess! Here's what's coming:
 
@@ -154,6 +162,15 @@ itch.io: mkiya.itch.io/cgacchess
 GitHub: @Mohammadkiya2012
 
 Email: mkiya.maleki@gmail.com, sobhanbavaghar.1319@gmail.com
+
+<div align="center">
+♔ Strategy • Intelligence • Victory ♚
+
+Made with ❤️ in Iran 🇮🇷
+
+⭐ If you like this project, please give it a star! ⭐
+
+</div> ```
 
 <div align="center">
 ♔ Strategy • Intelligence • Victory ♚
