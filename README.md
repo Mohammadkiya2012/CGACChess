@@ -91,6 +91,7 @@ PyQt5>=5.15.0
 python-chess>=1.999
 pygame>=2.5.0
 Pillow>=10.0.0
+<div>
 
 
 📸 Screenshots
