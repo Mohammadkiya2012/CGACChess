@@ -6,14 +6,14 @@
 ![License](https://img.shields.io/badge/license-MIT-orange)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
-A modern, feature-rich chess experience built with Python, PyQt5, and python-chess.  
+A modern, feature-rich chess experience built with Python, PyQt5, and python-chess.
 **Made with ❤️ by a team of two Iranian developers (average age: 14.5).**
 
 ---
 
 ## 🎮 Download
 
-**Available now on itch.io:**  
+**Available now on itch.io:**
 👉 [**Download CGACChess on itch.io**](https://mkiya.itch.io/cgacchess)
 
 ---
@@ -87,95 +87,97 @@ pip install -r requirements.txt
 
 # 4. Run the game
 python main.py
-PyQt5>=5.15.0
-python-chess>=1.999
-pygame>=2.5.0
-Pillow>=10.0.0
-<div>
+```
 
+---
 
-📸 Screenshots
-Main Menu	Gameplay	Daily Challenge
-https://screenshots/menu.png	https://screenshots/game.png	https://screenshots/puzzle.png
-Statistics	Themes	Premium
-https://screenshots/stats.png	https://screenshots/themes.png	https://screenshots/premium.png
-(Screenshots will be added soon)
+## 📸 Screenshots
 
-🗺️ Roadmap
+*(Screenshots will be added soon)*
+
+---
+
+## 🗺️ Roadmap
+
 We have big plans for CGACChess! Here's what's coming:
 
-☑ ~~v0.1.0 — Basic chess gameplay with AI~~
-☑ ~~v0.2.0 — LAN multiplayer and daily challenges~~
-☑ ~~v0.3.0 — Enhanced move history, lessons, and premium features~~ (current)
-□ v0.1.0 (stable) — Community-driven improvements based on YOUR feedback
-□ 2vs2 Chess Mode
-□ 3-Player Chess (Hexagonal board)
-□ 4-Player Chess (8-sided board)
-□ Remote Online Multiplayer (requires server funding)
-💡 Help us reach v0.1.0! Your feedback shapes the future of this game.
+- [x] ~~v0.1.0 — Basic chess gameplay with AI~~
+- [x] ~~v0.2.0 — LAN multiplayer and daily challenges~~
+- [x] ~~v0.3.0 — Enhanced move history, lessons, and premium features~~ *(current)*
+- [ ] **v0.1.0 (stable) — Community-driven improvements based on YOUR feedback**
+- [ ] **2vs2 Chess Mode**
+- [ ] **3-Player Chess (Hexagonal board)**
+- [ ] **4-Player Chess (8-sided board)**
+- [ ] **Remote Online Multiplayer** (requires server funding)
 
-🤝 Contributing
-This game is a Work in Progress, and it will only get better with YOUR feedback!
+> 💡 **Help us reach v0.1.0!** Your feedback shapes the future of this game.
 
-Every comment—whether it's praise, criticism, or even insults—is incredibly valuable to us. This is a game where YOU put the ideas.
+---
 
-How to contribute:
-🐛 Report bugs — Open an Issue
+## 🤝 Contributing
 
-💡 Suggest features — Start a Discussion
+This game is a **Work in Progress**, and it will only get better with YOUR feedback!
 
-⭐ Star this repo — It helps others find the project
+Every comment—whether it's praise, criticism, or even insults—is incredibly valuable to us. This is a game where **YOU** put the ideas.
 
-🍴 Fork & PR — Submit your own improvements
+### How to contribute:
+1. 🐛 **Report bugs** — Open an [Issue](https://github.com/Mohammadkiya2012/CGACChess/issues)
+2. 💡 **Suggest features** — Start a [Discussion](https://github.com/Mohammadkiya2012/CGACChess/discussions)
+3. ⭐ **Star this repo** — It helps others find the project
+4. 🍴 **Fork & PR** — Submit your own improvements
 
-💎 Support Us
-CGACChess is 100% free to play. If you'd like to support development:
+---
 
-⭐ Star this repository
+## 💎 Support Us
 
-🎮 Download and play the game on itch.io
+CGACChess is **100% free** to play. If you'd like to support development:
 
-📧 Donate via email (see itch.io page for details)
+- ⭐ Star this repository
+- 🎮 Download and play the game on [itch.io](https://mkiya.itch.io/cgacchess)
+- 📧 Donate via email (see itch.io page for details)
 
-⚠️ Important Note:
-Because we are based in Iran and face many sanctions, please do NOT donate via PayPal or any other platforms unavailable to Iranians. Contact us via email for alternative donation methods.
+**⚠️ Important Note:**
+Because we are based in **Iran** and face many sanctions, please **do NOT donate via PayPal** or any other platforms unavailable to Iranians. Contact us via email for alternative donation methods.
 
-👨‍💻 Authors
-M.Kiya — Lead Developer
-Sobhan — Co-Developer
-Average age: 14.5
+---
 
-📜 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+## 👨‍💻 Authors
 
-🌟 Acknowledgments
-python-chess — Incredible chess library
+**M.Kiya** — Lead Developer
+**Sobhan** — Co-Developer
+*Average age: 14.5*
 
-Stockfish — Powerful open-source chess engine
+---
 
-PyQt5 — GUI framework
+## 📜 License
 
-All our early players and testers 💙
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-📬 Contact
-itch.io: mkiya.itch.io/cgacchess
+---
 
-GitHub: @Mohammadkiya2012
+## 🌟 Acknowledgments
 
-Email: mkiya.maleki@gmail.com, sobhanbavaghar.1319@gmail.com
+- [python-chess](https://github.com/niklasf/python-chess) — Incredible chess library
+- [Stockfish](https://stockfishchess.org/) — Powerful open-source chess engine
+- [PyQt5](https://riverbankcomputing.com/software/pyqt/) — GUI framework
+- All our early players and testers 💙
+
+---
+
+## 📬 Contact
+
+- **itch.io:** [mkiya.itch.io/cgacchess](https://mkiya.itch.io/cgacchess)
+- **GitHub:** [@Mohammadkiya2012](https://github.com/Mohammadkiya2012)
+- **Email:** mkiya.maleki@gmail.com, sobhanbavaghar.1319@gmail.com
+
+---
 
 <div align="center">
-♔ Strategy • Intelligence • Victory ♚
+
+**♔ Strategy • Intelligence • Victory ♚**
 
 Made with ❤️ in Iran 🇮🇷
 
-⭐ If you like this project, please give it a star! ⭐
+⭐ **If you like this project, please give it a star!** ⭐
 
-</div> ```
-
-<div align="center">
-♔ Strategy • Intelligence • Victory ♚
-
-Made with ❤️ in Iran 🇮🇷
-
-⭐ If you like this project, please give it a star! ⭐
+</div>
